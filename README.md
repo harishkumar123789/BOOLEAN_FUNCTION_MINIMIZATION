@@ -55,8 +55,9 @@ Developed by: RegisterNumber:*/24010415
 
 
 **Timing Diagram**
-![Screenshot 2024-10-07 185648](https://github.com/user-attachments/assets/c85a5dfa-3213-4f02-9343-17f8ecd5ffe6)
-![Screenshot 2024-10-09 125047](https://github.com/user-attachments/assets/e8b24dd8-28b7-4522-9536-b373a0944bb7)
+![WhatsApp Image 2024-10-28 at 14 44 46_c9bf0326](https://github.com/user-attachments/assets/9d712651-03d1-4dd3-9812-2a2735133143)
+![WhatsApp Image 2024-10-28 at 14 45 15_2419bb71](https://github.com/user-attachments/assets/b6e27711-7c48-481e-a6ec-4f98340e7696)
+
 
 
 
